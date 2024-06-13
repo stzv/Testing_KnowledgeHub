@@ -6,8 +6,6 @@ exercises: 2
 
 :::::::::::::::::::::::::::::::::::::: questions 
 
-** TRYING IF SOMETHING CHANGES!!**
-
 - How do you write a lesson using Markdown and `{sandpaper}`?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
@@ -20,6 +18,8 @@ exercises: 2
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Introduction
+
+** TRYING IF SOMETHING CHANGES!!**
 
 This is a lesson created via The Carpentries Workbench. It is written in
 [Pandoc-flavored Markdown](https://pandoc.org/MANUAL.txt) for static files and
